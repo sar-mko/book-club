@@ -28,3 +28,7 @@ This app is meant to be a resource to search and add events a local libraries. U
 
 Sarah Mko [@sar-mko](https://github.com/sar-mko)
 
+## Preview
+[Home Page](src/assets/images/lib-home-img.png)
+[Events](src/assets/images/lib-events-img.png)
+[Form](src/assets/images/lib-form-img.png)

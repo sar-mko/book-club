@@ -32,3 +32,6 @@ Sarah Mko [@sar-mko](https://github.com/sar-mko)
 * [Home Page](src/assets/images/lib-home-img.png)
 * [Events](src/assets/images/lib-events-img.png)
 * [Form](src/assets/images/lib-form-img.png)
+
+## Demo
+* [Book Club](https://book-club-localevents.netlify.app)

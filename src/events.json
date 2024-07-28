@@ -1,0 +1,88 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Arts and Crafts",
+      "date": "2024-08-30",
+      "location": "Water Library",
+      "description": "Arts and Crafts for the little ones. Interactive activity fun for children of all ages. Families and children can further explore literacy and learning through reading, talking, singing, writing and playing together.",
+      "time": "12:30",
+      "library": {
+        "name": "Water Library",
+        "address": "444 Water Ave",
+        "contactEmail": "contact@water-library.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Read - A - long",
+      "date": "2024-07-19",
+      "location": "Wood Library",
+      "description": "Read a longs and interactive activity fun for children of all ages. Families and children can further explore literacy and learning through reading, talking, singing, writing and playing together.",
+      "time": "10:00",
+      "library": {
+        "name": "Wood Library",
+        "address": "1234 Wood Ave",
+        "contactEmail": "contact@wood-library.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Comic Books and Fun",
+      "date": "2024-07-28",
+      "location": "Lone Library",
+      "description": "Join us local and international comic book professionals share their knowledge for creators, readers and educators. On Sunday, a showcase of over 80 comic book creators selling their work, plus family-friendly workshops. ",
+      "time": "11:00",
+      "library": {
+        "name": "Lone Library",
+        "address": "123 Lone St.",
+        "contactEmail": "contact@lone-library.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "How to Make a Reindeer House",
+      "date": "2024-09-18",
+      "location": "Sunflower Library",
+      "description": "Make a reindeer house with us! Interactive activity fun for children of all ages. Families and children can further explore literacy and learning through reading, talking, singing, writing and playing together.",
+      "time": "15:00",
+      "library": {
+        "name": "Sunflower Library",
+        "address": "555 Sunshine Ave",
+        "contactEmail": "contact@flowers-library.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Story Time & Play Time",
+      "date": "2024-08-31",
+      "location": "Charleston Library",
+      "description": "Big stories for the little ones. Interactive story fun for pre-schoolers and their carers. Families and children can further explore literacy and learning through reading, talking, singing, writing and playing together.",
+      "time": "15:30",
+      "library": {
+        "name": "Charleston Library",
+        "address": "333 Charleston Ave",
+        "contactEmail": "contact@charlestonLibrary.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Read and Write",
+      "date": "2024-10-29",
+      "location": "Big Mountain Library",
+      "description": "Read a longs and interactive activity fun for children of all ages. Families and children can further explore literacy and learning through reading, talking, singing, writing and playing together.",
+      "time": "10:30",
+      "library": {
+        "name": "Big Mountain Librart",
+        "address": "455 Mountain Road",
+        "contactEmail": "contact@mt-library.com",
+        "contactPhone": "555-555-5555"
+      }
+    }
+  ]
+}
